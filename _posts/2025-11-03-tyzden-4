@@ -1,0 +1,36 @@
+---
+title: "Zápisnica č. 4"
+date: 2025-11-03
+categories: ["supervisor"]
+---
+
+### Dochádzka
+
+| Meno                       | Prítomný | Rola            |
+| :------------------------- | :------: | :-------------- |
+| **Dominik Hajko**          |    ✅     | Simulácia siete |
+| **Martin Horský**          |    ✅     | Algoritmy       |
+| **Samuel Gabriel Galgóci** |    ✅     | Simulácia siete |
+| **Maryna Kolesnykova**     |    ✅     | Algoritmy       |
+| **Bruno Kristián**         |    ✅     | SUMO a SUMO-API |
+| **Anna Skosar**            |    ✅     | SUMO a SUMO-API |
+
+> *Zapisovač sa bude rotovať po týždňoch.*
+
+---
+
+### Zhrnutie stretnutia
+
+- Začiatok prepájania minuloročného projektu (Stocars) s diplomovou prácou (ReCo) 
+- Vytváranie diagramu architektúry
+- Rozhodovanie o pridaní nových modulov  
+- Preberanie Kubernetesu
+- Zoznamovanie sa s OMNeT++
+
+---
+
+### Úlohy do ďalšieho stretnutia
+
+- Preskúmať požiadavky potrebné pre Kubernetes
+- Prejsť si ešte raz vytvorený diagram
+  
