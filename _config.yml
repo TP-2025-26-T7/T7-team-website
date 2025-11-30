@@ -9,4 +9,4 @@ markdown: kramdown
 
 
 minima:
-  skin: auto 
+  skin: dark
