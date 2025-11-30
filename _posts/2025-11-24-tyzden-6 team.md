@@ -15,7 +15,6 @@ categories: ["team"]
 | **Bruno Kristián**         |    ✅     | SUMO a SUMO-API |
 | **Anna Skosar**            |    ✅     | SUMO a SUMO-API |
 
-> *Zapisovač sa bude rotovať po týždňoch.*
 
 ---
 
