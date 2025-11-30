@@ -31,3 +31,25 @@ Spolupracujeme na vývoji inteligentného systému, ktorý pomáha autonómnym v
 ---
 
 ## Týždenné zápisnice 🥱
+
+### Team meetings
+<ul>
+  {% for post in site.categories.team %}
+    <li>
+      <a href="{{ post.url | relative_url }}">
+        {{ post.date | date: "%Y-%m-%d" }} – {{ post.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+### Supervisor meetings
+<ul>
+  {% for post in site.categories.supervisor %}
+    <li>
+      <a href="{{ post.url | relative_url }}">
+        {{ post.date | date: "%Y-%m-%d" }} – {{ post.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
