@@ -1,6 +1,7 @@
 ---
 layout: page
-title: " "
+title: "Virtuálna križovatka"
+permalink: /
 ---
 
 # Virtuálna križovatka  
