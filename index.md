@@ -33,7 +33,7 @@ Spolupracujeme na vývoji inteligentného systému, ktorý pomáha autonómnym v
 
 ## Týždenné zápisnice 🥱
 
-### Team meetings
+### Tímové stretnutia
 <ul>
   {% for post in site.categories.team %}
     <li>
@@ -44,7 +44,7 @@ Spolupracujeme na vývoji inteligentného systému, ktorý pomáha autonómnym v
   {% endfor %}
 </ul>
 
-### Supervisor meetings
+### Stretnutia s vedúcim
 <ul>
   {% for post in site.categories.supervisor %}
     <li>
