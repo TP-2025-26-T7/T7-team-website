@@ -1,7 +1,7 @@
 ---
 title: "Zápisnica č. 1"
-date: 2025-10-13
-categories: ["supervisor"]
+date: 2025-10-17
+categories: ["team"]
 ---
 
 ### Dochádzka
@@ -15,26 +15,12 @@ categories: ["supervisor"]
 | **Bruno Kristián**         |    ✅     | TBD  |
 | **Anna Skosar**            |    ✅     | TBD  |
 
-> *Zapisovač sa bude rotovať po týždňoch.*
 
 ---
 
-### Zhrnutie stretnutia
-
-- Oboznámenie s problematikou  
-- Vytvorenie komunikačnej skupiny  
-  - interne: Messenger  
-  - spolu s vedúcim: Teams  
-- Vybratie agilného nástroja – **Azure DevOps**  
-- Pripojenie sa k existujúcemu **GitHub repozitáru**  
-- Rozdelenie rolí v tíme  
-
----
-
-### Úlohy do ďalšieho stretnutia
+### Úlohy riešené na stretnutí
 
 - Spustenie projektu u každého v skupine  
-- Informovanie sa o použitých technológiách **SUMO** a iných  
+- Informovanie sa o použitých technológiách   
 - Definovanie cieľa projektu  
-- Vytvorenie približného harmonogramu na semester  
 - Diskusia o možnej implementácii (frontend, backend, infraštruktúra…)
