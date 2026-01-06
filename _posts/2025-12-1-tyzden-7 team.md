@@ -1,6 +1,6 @@
 ---
 title: "Zápisnica č. 7"
-date: 2025-12-4
+date: 2025-12-5
 categories: ["team"]
 ---
 
