@@ -1,5 +1,5 @@
 ---
-title: "Zápisnica č. 1"
+title: "Tímová zápisnica č. 1"
 date: 2026-02-16
 categories: ["team"]
 ---
