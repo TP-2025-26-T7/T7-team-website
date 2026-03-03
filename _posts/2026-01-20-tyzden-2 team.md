@@ -1,6 +1,6 @@
 ---
 title: "Tímová zápisnica č. 2"
-date: 2026-01-20
+date: 2026-02-20
 categories: ["team"]
 ---
 
