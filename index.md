@@ -46,23 +46,61 @@ Spolupracujeme na vývoji inteligentného systému, ktorý pomáha autonómnym v
 ## Týždenné zápisnice 🥱
 
 ### Tímové stretnutia
+
+#### 2. Semester
 <ul>
   {% for post in site.categories.team %}
+    {% assign year = post.date | date: "%Y" %}
+    {% if year >= "2026" %}
     <li>
       <a href="{{ post.url | relative_url }}">
         {{ post.date | date: "%Y-%m-%d" }} – {{ post.title }}
       </a>
     </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+#### 1. Semester
+<ul>
+  {% for post in site.categories.team %}
+    {% assign year = post.date | date: "%Y" %}
+    {% if year < "2026" %}
+    <li>
+      <a href="{{ post.url | relative_url }}">
+        {{ post.date | date: "%Y-%m-%d" }} – {{ post.title }}
+      </a>
+    </li>
+    {% endif %}
   {% endfor %}
 </ul>
 
 ### Stretnutia s vedúcim
+
+#### 2. Semester
 <ul>
   {% for post in site.categories.supervisor %}
+    {% assign year = post.date | date: "%Y" %}
+    {% if year >= "2026" %}
     <li>
       <a href="{{ post.url | relative_url }}">
         {{ post.date | date: "%Y-%m-%d" }} – {{ post.title }}
       </a>
     </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+#### 1. Semester
+<ul>
+  {% for post in site.categories.supervisor %}
+    {% assign year = post.date | date: "%Y" %}
+    {% if year < "2026" %}
+    <li>
+      <a href="{{ post.url | relative_url }}">
+        {{ post.date | date: "%Y-%m-%d" }} – {{ post.title }}
+      </a>
+    </li>
+    {% endif %}
   {% endfor %}
 </ul>
